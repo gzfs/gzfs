@@ -27,11 +27,12 @@ Hi 👋, I am <b>Vishal</b> aka Gizem an enthusiastic Low Level Developer and a 
 <a href="https://github.com/gzfs"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=gzfs&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
 <p align="center>
-  <a href="https://github.com/Giingu?tab=repositories&sort=stargazers">
+  <a href="https://github.com/gzfs?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fgzfs"/></a>
   <a href="https://github.com/gzfs?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/gzfs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/gzfs">
     <img alt="views" title="GitHub profile views" src="https://kounter.tk/badge/gzfs?label=&color=333&style=for-the-badge&cntSuffix=%20Views"/></a>
 <img alt="Demn" src="https://custom-icon-badges.demolab.com/badge/-vismbs@pm.me-red?style=for-the-badge&logo=mention&logoColor=white"/>
+<img alt="Demn" src="https://custom-icon-badges.demolab.com/badge/Chennai-India-purple?style=for-the-badge&logo=location&logoColor=white"/>
 </p>
