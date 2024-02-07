@@ -23,6 +23,8 @@ Hi 👋, I am <b>Vishal</b> aka Gizem an enthusiastic Low Level Developer and a 
 
 <img align="right" width="38%" src="https://images.unsplash.com/photo-1542931287-023b922fa89b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80"/>
 
+<script src="https://tryhackme.com/badge/2124199"></script>
+
 <a href="https://github.com/gzfs"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=gzfs&theme=radical&title_color=ff3068?"></a>
 <a href="https://github.com/gzfs"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=gzfs&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
