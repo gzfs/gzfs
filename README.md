@@ -1,7 +1,7 @@
-![Banner](https://github.com/gzfs/gzfs/assets/136951122/98e4dd36-de0a-4cb4-8321-a36e36186d87)
+![Banner](https://github.com/gzfs/gzfs/assets/136951122/0012ed6d-ad8a-4e78-83f7-2e5389769b88)
 
 <p>
-Hi 👋, I am <b>Vishal</b> aka Gizem an enthusiastic Low Level Developer and a Full Stack Web Developer. I specialize in Web Development and Linux. Networking is my cup of tea and I love to add value to the Communities that I am involved in 😊
+Hi 👋, I am <b>Vishal</b> aka Gizem an enthusiastic Pentester and a Full Stack Developer. I specialize in Web Development, Pentesting and Linux. Networking is my cup of tea and I love to add value to the Communities that I am involved in 😊
 
   <details>
     <summary>🧑 More about me</summary>
@@ -12,7 +12,7 @@ Hi 👋, I am <b>Vishal</b> aka Gizem an enthusiastic Low Level Developer and a 
   
   - 🤝 I’m looking for help with **finding projects to contribute to!**
   
-  - 💬 Ask me about **Web Development and Linux**
+  - 💬 Ask me about **Web Development, Pentesting and Linux**
   
   - 📫 Reach me out at **vismbs@pm.me**
   
@@ -22,8 +22,6 @@ Hi 👋, I am <b>Vishal</b> aka Gizem an enthusiastic Low Level Developer and a 
 ## 🔥 Github Stats
 
 <img align="right" width="38%" src="https://images.unsplash.com/photo-1542931287-023b922fa89b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80"/>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Nessundorma.png" alt="TryHackMe">
 
 <a href="https://github.com/gzfs"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=gzfs&theme=radical&title_color=ff3068?"></a>
 <a href="https://github.com/gzfs"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=gzfs&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
