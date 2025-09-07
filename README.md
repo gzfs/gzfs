@@ -1,7 +1,7 @@
 ![Banner](https://github.com/gzfs/gzfs/assets/136951122/0012ed6d-ad8a-4e78-83f7-2e5389769b88)
 
 <p>
-Hi 👋, I am <b>Vishal</b> aka Gizem an enthusiastic Pentester and a Full Stack Developer. I specialize in Web Development, Pentesting and Linux. Networking is my cup of tea and I love to add value to the Communities that I am involved in 😊
+Hi 👋, I am Gizem an enthusiastic Pentester and a Full Stack Developer. I specialize in Web Development, Pentesting and Linux. Networking is my cup of tea and I love to add value to the Communities that I am involved in 😊
 
   <details>
     <summary>🧑 More about me</summary>
